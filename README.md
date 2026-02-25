@@ -13,7 +13,9 @@ A comprehensive application for image classification featuring:
 - **Vision Transformers**: Scripts and notebooks for implementing state-of-the-art vision transformer models
 - **Vision Language Models**: Tools for leveraging multimodal models that combine vision and language understanding
 
-Use cases include product categorization, visual content analysis, and automated image tagging for marketing campaigns.
+Image classification is the task of assigning a label or category to an image based on its visual content. It involves analyzing visual elements such as objects, people, scenes, colors, compositions, and emotional cues to automatically categorize images into predefined classes. 
+
+In the digital age, organizations generate enormous volumes of visual content daily—from advertising campaigns to social media content to customer-generated images. Manual classification of such large-scale image datasets is time-consuming and costly. AI-powered image classification automates this process, enabling organizations to understand and leverage visual content at scale (see "Vision Transformers and Vision Language Models for Marketing: A Comparison of Paradigms for Image Classification," https://doi.org/10.1016/j.ijresmar.2026.01.001)
 
 ### 2. GenAI for Influencer Marketing
 
