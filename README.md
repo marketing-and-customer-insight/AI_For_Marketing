@@ -26,6 +26,10 @@ Generative AI (GenAI) offers a new paradigm for resolving this tension. Visual g
 - The code contains example images and code for image captioning to create prompt ideas
 - Images can be created using Googles Gemini (Nano Banana)
 
+### 3. Fine-Tuning Stable Diffusion for Ads
+
+Creating high-quality advertising visuals is traditionally expensive, slow, and creatively constrained. Marketing teams must repeatedly produce new campaign visuals while ensuring consistency with brand identity and product representation.
+
 ## Execution Environment
 
 All notebooks and scripts can be executed in two ways:
