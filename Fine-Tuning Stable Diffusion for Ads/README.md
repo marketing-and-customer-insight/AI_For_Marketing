@@ -47,27 +47,6 @@ This enables the model to generate new advertising scenes featuring the same pro
 >
 > The trade-off is higher computational cost and setup complexity.
 
-## Prompt Engineering for Strategic Control
-
-Generative models rely heavily on text prompts. Small wording changes can dramatically alter generated images.
-
-Effective prompts typically include:
-- Object description
-- Environment or context
-- Lighting conditions
-- Camera angle
-- Style references
-
-For marketing images, prompts should reflect strategic positioning.
-
-**Example prompt:**
-
-```text
-car web banner ad of audi a4 car in rugged style
-```
-
-Prompt engineering becomes a way to translate marketing strategy into structured text instructions that guide the model toward the desired visual outcome.
-
 ## Getting Started
 
 The full workflow for training and generating images is explained in:
